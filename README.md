@@ -43,7 +43,7 @@ This project uses the **Brain Tumor MRI Dataset** from Kaggle.
 2. Extract it into the `data/` folder in your project directory.  
 3. Ensure the folder structure looks like this:  
 
-/data/brain-tumor-mri-dataset/
+```/data/brain-tumor-mri-dataset/
 ├── Training/
 │   ├── glioma/
 │   ├── meningioma/
@@ -54,3 +54,4 @@ This project uses the **Brain Tumor MRI Dataset** from Kaggle.
 │   ├── meningioma/
 │   ├── notumor/
 │   ├── pituitary/
+```
