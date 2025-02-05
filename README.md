@@ -54,7 +54,8 @@ This project uses the **Brain Tumor MRI Dataset** from Kaggle.
 │   ├── meningioma/
 │   ├── notumor/
 │   ├── pituitary/
-```## Contributors  
+```
+## Contributors  
 
 <table>
   <tr>
