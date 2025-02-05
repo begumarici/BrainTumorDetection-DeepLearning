@@ -54,4 +54,34 @@ This project uses the **Brain Tumor MRI Dataset** from Kaggle.
 │   ├── meningioma/
 │   ├── notumor/
 │   ├── pituitary/
-```
+```## Contributors  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/begumarici">
+        <img src="https://github.com/begumarici.png" width="80" height="80"><br>
+        <sub><b>Begüm Arıcı</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aleynatunc">
+        <img src="https://github.com/aleynatunc.png" width="80" height="80"><br>
+        <sub><b>Aleyna Tunç</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yasemin-torun">
+        <img src="https://github.com/yasemin-torun.png" width="80" height="80"><br>
+        <sub><b>Yasemin Torun</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeynepkrksl">
+        <img src="https://github.com/zeynepkrksl.png" width="80" height="80"><br>
+        <sub><b>Zeynep Karakaşlı</b></sub>
+      </a>
+    </td>
+    
+  </tr>
+</table>
